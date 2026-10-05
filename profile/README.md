@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access GoodTask App](https://img.shields.io/badge/Access-Scapple_Visual_Mapping-blue)](https://mabrrylilp.github.io/.github/installing-postman)
+[![Access GoodTask App](https://img.shields.io/badge/Access-Scapple_Visual_Mapping-blue)](https://karolinewightman292.github.io/.github/Installing-Postman)
 </div>
 
 ## What is this Scapple Visual Mapping Integration?
